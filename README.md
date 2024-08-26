@@ -1,5 +1,7 @@
 This is the release of my mod Doki Doki Skyblock Club for Doki Doki Literature Club!
 
+If you have not already seen the trailer you should watch it here first: https://www.youtube.com/watch?v=3iDGQgTsaNU
+
 If you have never installed a DDLC mod before don't worry its actually pretty simple! Here is a brief explanation:
 1. Download vanilla DDLC from Steam or the stand alone download at https://ddlc.moe. Make sure that you get the free version of DDLC and not DDLC plus. Also download the latest version of DDSBC from the link at the top of the description.
 2. If you are using the stand alone download extract it into a folder of your choice, if you're on steam right click the game and select browse local files. In either case this folder should have DDLC.exe along with several other files.
